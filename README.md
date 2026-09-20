@@ -1,1 +1,1 @@
-# Zadanie1
+Użyłem szablonu Empty Views Activity, ponieważ bazuje on na klasycznym XML i Javie których teraz sie uczymy. A szablon Emty Activity stawia na nowszy jetpack Compose który jest w kotlinie.
